@@ -63,8 +63,7 @@ The objective of this project was to transform raw retail transaction data into 
 
 ## 📷 Dashboard Preview
 
-The dashboard provides an interactive view of sales performance through KPI cards, trend analysis, country analysis, and product analysis.
-
+![Online Retail Sales Dashboard](dashboard_screenshot.png)
 ## 👤 Author
 
 **Mohamed Razi**
